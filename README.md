@@ -1,2 +1,2 @@
 # html.portfolio
-Authoe-Rishabh Singh
+Author-Rishabh Singh
